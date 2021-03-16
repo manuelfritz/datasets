@@ -1,10 +1,1 @@
-data_gaussian_n1000000_features50_k10_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features50_k50_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features100_k50_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features10_k100_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features10_k10_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features10_k50_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features50_k100_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features100_k100_noise0.csv filter=lfs diff=lfs merge=lfs -text
-data_gaussian_n1000000_features100_k10_noise0.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
