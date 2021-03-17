@@ -1,0 +1,6 @@
+Abbreviation,Dataset,URL
+R-I,Avila,https://archive.ics.uci.edu/ml/datasets/Avila
+R-II,Dataset for Sensorless Drive Diagnosis,https://archive.ics.uci.edu/ml/datasets/dataset+for+sensorless+drive+diagnosis
+R-III,MNIST,https://www.kaggle.com/oddrationale/mnist-in-csv
+R-IV,KDD Cup 1999 Data,http://archive.ics.uci.edu/ml/datasets/KDD+Cup+1999+Data
+R-V,KITSUNE Network Attack Dataset,https://archive.ics.uci.edu/ml/datasets/Kitsune+Network+Attack+Dataset
